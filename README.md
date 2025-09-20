@@ -5,6 +5,13 @@
 
 <p align="center"> <img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Hello+World%21%22%2C%22deleteSpeed%22%3A0.7%7D%2C%7B%22text%22%3A%22Welcome+%7E%22%7D%5D" alt="Typing SVG" /> </p>
 
+<!-- snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xingwangzhe/xingwangzhe/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/xingwangzhe/xingwangzhe/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zalexk&label=Profile%20views&color=0e75b6&style=flat" alt="zalexk" /> </p>
 
 - 🔭 I’m currently interested in **LLMs**
