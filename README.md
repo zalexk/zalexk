@@ -18,8 +18,6 @@
 
 - 🌱 I’m currently learning **statistics and programming**
 
-- 📝 I regularly write articles on [https://zalexk.github.io/](https://zalexk.github.io/)
-
 - 📫 How to reach me **alexzsk-public@outlook.com**
 
 
